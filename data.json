@@ -1,0 +1,82 @@
+ [
+    {
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
+      "author": "John Woods"
+    },
+    {
+      "text": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+      "author": "Rick Cook"
+    },
+    {
+      "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    },
+    {
+      "text": "I'm not a great programmer; I'm just a good programmer with great habits.",
+      "author": "Kent Beck"
+    },
+    {
+      "text": "Truth can only be found in one place: the code.",
+      "author": "Robert C. Martin"
+    },
+    {
+      "text": "Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.",
+      "author": "Muhammad Waseem"
+    },
+    {
+      "text": "How you look at it is pretty much how you'll see it",
+      "author": "Rasheed Ogunlaru"
+    },
+    {
+      "text": "Walking on water and developing software from a specification are easy if both are frozen.",
+      "author": "Edward V. Berard"
+    },
+    {
+      "text": "The most disastrous thing that you can ever learn is your first programming language",
+      "author": "Alan Kay"
+    },
+    {
+      "text": "Perl – The only language that looks the same before and after RSA encryption.",
+      "author": "Keith Bostic"
+    },
+    {
+      "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "text": "Don’t comment bad code – rewrite it.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "text": "The computer was born to solve problems that did not exist before.",
+      "author": "Bill Gates"
+    },
+    {
+      "text": "We have to stop optimizing for programmers and start optimizing for users.",
+      "author": "Jeff Atwood"
+    },
+    {
+      "text": "Don’t compare yourself with anyone in this world…if you do so, you are insulting yourself.",
+      "author": "Bill Gates"
+    },
+    {
+      "text": "If you are born poor it’s not your mistake, but if you die poor it’s your mistake.",
+      "author": "Bill Gates"
+    },
+    {
+      "text": "Any fool can use a computer. Many do.",
+      "author": "Ted Nelson"
+    },
+    {
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    }
+  ]
