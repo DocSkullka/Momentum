@@ -77,11 +77,13 @@ function getSlidePrev() {
  }
 
 function setBg() {
+    const date = new Date();
     const img = new Image()
-    img.src = `https://raw.githubusercontent.com/rolling-scopes-school/stage1-tasks/assets/images/${getTimeOfDay()}/${bgNum.padStart(2, '0')}.jpg`.toLowerCase()
+    img.src = `https://raw.githubusercontent.com/rolling-scopes-school/stage1-tasks/assets/images/${date.getHours()>=4 && date.getHours() <16 ? 'morning' : getTimeOfDay()}/${bgNum.padStart(2, '0')}.jpg`.toLowerCase()
     img.addEventListener('load', function()
-        { document.querySelector('.body').style.backgroundImage = `url('https://raw.githubusercontent.com/rolling-scopes-school/stage1-tasks/assets/images/${getTimeOfDay()}/${bgNum.padStart(2, '0')}.jpg')`.toLowerCase()}
+        { document.querySelector('.body').style.backgroundImage = `url('https://raw.githubusercontent.com/rolling-scopes-school/stage1-tasks/assets/images/${date.getHours()>=4 && date.getHours() <16 ? 'morning' : getTimeOfDay()}/${bgNum.padStart(2, '0')}.jpg')`.toLowerCase()}
       )
+      console.log(img.src);
 }
 
 setBg()
